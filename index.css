@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto+Mono&display=swap');
+
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+    max-width:100%;
+   
+  }
+
+  html {
+      font-size: 62.5%;
+  }
+
+  body {
+      line-height:2;
+      font-size:1.5rem;
+     font-family: Roboto Mono;
+  }
+
+  .image_one{
+      width: 20%;
+      padding: 2%;
+  }
+
+  .image_one img{
+      border-radius: 50%;
+      margin: 0 auto;
+  }
+
+  h1 {
+      font-family: Chelsea Market;
+  }
+  
